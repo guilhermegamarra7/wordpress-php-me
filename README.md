@@ -1,7 +1,6 @@
 # ME Imprensa & Assessoria - Tema WordPress Customizado
 
-[[Status](https://img.shields.io/badge/Status-Concluído-success)](#)
-[[Tecnologias](https://img.shields.io/badge/Tecnologias-PHP_|_WordPress_|_Tailwind_CSS-blue)](#)
+Tecnologias: PHP | WordPress | Tailwind CSS-blue | HTML
 
 > **LINK TEMPORÁRIO PARA ACESSAR:** [https://me-imprensa.infinityfree.me/](https://me-imprensa.infinityfree.me/)
 
